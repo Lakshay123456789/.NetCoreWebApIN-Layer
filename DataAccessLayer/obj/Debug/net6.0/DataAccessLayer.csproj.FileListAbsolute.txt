@@ -1,0 +1,17 @@
+E:\Revision\Web_Revision\WebApIRevision\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+E:\Revision\Web_Revision\WebApIRevision\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Revision\Web_Revision\WebApIRevision\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+E:\Revision\Web_Revision\WebApIRevision\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+E:\Revision\Web_Revision\WebApIRevision\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Revision\Web_Revision\WebApIRevision\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+E:\Revision\Web_Revision\WebApIRevision\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+E:\Revision\Web_Revision\WebApIRevision\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+E:\Revision\Web_Revision\WebApIRevision\DataAccessLayer\bin\Debug\net6.0\Model.dll
+E:\Revision\Web_Revision\WebApIRevision\DataAccessLayer\bin\Debug\net6.0\Model.pdb
+E:\Revision\Web_Revision\WebApIRevision\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+E:\Revision\Web_Revision\WebApIRevision\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+E:\Revision\Web_Revision\WebApIRevision\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+E:\Revision\Web_Revision\WebApIRevision\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+E:\Revision\Web_Revision\WebApIRevision\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+E:\Revision\Web_Revision\WebApIRevision\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+E:\Revision\Web_Revision\WebApIRevision\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
