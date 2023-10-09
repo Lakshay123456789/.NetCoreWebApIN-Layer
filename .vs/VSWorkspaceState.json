@@ -1,12 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Model",
-    "\\Model\\DemoContextDb",
-    "\\Model\\Migrations",
-    "\\WebApIRevision",
-    "\\WebApIRevision\\Controllers"
+    "\\DataAccessLayer",
+    "\\DataAccessLayer\\Repositories",
+    "\\WebApIRevision"
   ],
-  "SelectedNode": "\\WebApIRevision\\Program.cs",
+  "SelectedNode": "\\DataAccessLayer\\Repositories\\JWTManagerRepository.cs",
   "PreviewInSolutionExplorer": false
 }

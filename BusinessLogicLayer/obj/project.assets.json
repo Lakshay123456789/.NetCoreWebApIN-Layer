@@ -4296,11 +4296,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Revision\\Web_Revision\\WebApIRevision\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+      "projectUniqueName": "D:\\New folder (7)\\.NetCoreWebApIN-Layer\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
       "projectName": "BusinessLogicLayer",
-      "projectPath": "E:\\Revision\\Web_Revision\\WebApIRevision\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+      "projectPath": "D:\\New folder (7)\\.NetCoreWebApIN-Layer\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
       "packagesPath": "C:\\Users\\lakshay\\.nuget\\packages\\",
-      "outputPath": "E:\\Revision\\Web_Revision\\WebApIRevision\\BusinessLogicLayer\\obj\\",
+      "outputPath": "D:\\New folder (7)\\.NetCoreWebApIN-Layer\\BusinessLogicLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lakshay\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4317,11 +4317,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Revision\\Web_Revision\\WebApIRevision\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "E:\\Revision\\Web_Revision\\WebApIRevision\\DataAccessLayer\\DataAccessLayer.csproj"
+            "D:\\New folder (7)\\.NetCoreWebApIN-Layer\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "D:\\New folder (7)\\.NetCoreWebApIN-Layer\\DataAccessLayer\\DataAccessLayer.csproj"
             },
-            "E:\\Revision\\Web_Revision\\WebApIRevision\\Model\\Model.csproj": {
-              "projectPath": "E:\\Revision\\Web_Revision\\WebApIRevision\\Model\\Model.csproj"
+            "D:\\New folder (7)\\.NetCoreWebApIN-Layer\\Model\\Model.csproj": {
+              "projectPath": "D:\\New folder (7)\\.NetCoreWebApIN-Layer\\Model\\Model.csproj"
             }
           }
         }
@@ -4401,7 +4401,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

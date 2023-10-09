@@ -15,3 +15,20 @@ E:\Revision\Web_Revision\WebApIRevision\DataAccessLayer\obj\Debug\net6.0\DataAcc
 E:\Revision\Web_Revision\WebApIRevision\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
 E:\Revision\Web_Revision\WebApIRevision\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
 E:\Revision\Web_Revision\WebApIRevision\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+D:\New folder (7)\.NetCoreWebApIN-Layer\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+D:\New folder (7)\.NetCoreWebApIN-Layer\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+D:\New folder (7)\.NetCoreWebApIN-Layer\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\New folder (7)\.NetCoreWebApIN-Layer\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\New folder (7)\.NetCoreWebApIN-Layer\DataAccessLayer\bin\Debug\net6.0\Model.dll
+D:\New folder (7)\.NetCoreWebApIN-Layer\DataAccessLayer\bin\Debug\net6.0\Model.pdb
+D:\New folder (7)\.NetCoreWebApIN-Layer\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\New folder (7)\.NetCoreWebApIN-Layer\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (7)\.NetCoreWebApIN-Layer\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\New folder (7)\.NetCoreWebApIN-Layer\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+D:\New folder (7)\.NetCoreWebApIN-Layer\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\New folder (7)\.NetCoreWebApIN-Layer\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+D:\New folder (7)\.NetCoreWebApIN-Layer\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+D:\New folder (7)\.NetCoreWebApIN-Layer\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+D:\New folder (7)\.NetCoreWebApIN-Layer\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+D:\New folder (7)\.NetCoreWebApIN-Layer\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+D:\New folder (7)\.NetCoreWebApIN-Layer\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll

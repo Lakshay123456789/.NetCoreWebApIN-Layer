@@ -140,7 +140,20 @@ namespace WebApIRevision.Controllers
                 return BadRequest("Email cannot be empty or null.");
             }
         }
+        [HttpPost("verfiyTwoFactor")]
+
+        public async Task<IActionResult> GetFactorCode(TwoFactorDto twoFactorDto)
+        {
+
+            var result = await _accountService.VerifyTwoFactor(twoFactorDto);
+            if (result.IsSuccess)
+            {
+                return Ok(result);
+            }
+            return Unauthorized();
+        }
 
     }
+
 
 }

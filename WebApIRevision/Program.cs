@@ -21,9 +21,19 @@ var builder = WebApplication.CreateBuilder(args);
 // Configuration
 var configuration = builder.Configuration;
 
+// builder.Services.AddIdentity<IdentityUser, IdentityRole>()
+ //      .AddEntityFrameworkStores<ApplicationDbContext>()
+  //        .AddDefaultTokenProviders();
+
 builder.Services.AddIdentity<IdentityUser, IdentityRole>()
-        .AddEntityFrameworkStores<ApplicationDbContext>()
-          .AddDefaultTokenProviders();
+    .AddEntityFrameworkStores<ApplicationDbContext>()
+    .AddDefaultTokenProviders()
+    .AddTokenProvider<EmailTokenProvider<IdentityUser>>("Email");
+builder.Services.Configure<DataProtectionTokenProviderOptions>("Email", o =>
+{
+    o.TokenLifespan = TimeSpan.FromMinutes(2); 
+});
+
 // Add services to the container.
 //builder.Services.AddSwaggerGen(c =>
 //{

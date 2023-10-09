@@ -18,5 +18,7 @@ namespace BusinessLogicLayer.AccountServices.InterfaceAccount
 
         Task<bool> ResetPassword(ResetPasswordModel resetPasswordModel);
 
+        Task<LoginResponseModel> VerifyTwoFactor(TwoFactorDto model);
+
     }
 }

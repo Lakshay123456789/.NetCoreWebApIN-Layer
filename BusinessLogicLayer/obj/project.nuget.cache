@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OoBo5sZKjdGyLs1499ITIPhoe0TDBjoOAzVN+NZlrMqL+gfaNGO+ByFinzTY/+qjC8cPPDHOw1WZ1/ibF7mapQ==",
+  "dgSpecHash": "3S5LREmL1hgToa3S4sRsao3KxY0z+KURjPn1ypU85jjBCP4hPbekxh0rrzJJtkDcecDNbi/AHiI9nD0gCZYd9A==",
   "success": true,
-  "projectFilePath": "E:\\Revision\\Web_Revision\\WebApIRevision\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+  "projectFilePath": "D:\\New folder (7)\\.NetCoreWebApIN-Layer\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lakshay\\.nuget\\packages\\automapper\\8.0.0\\automapper.8.0.0.nupkg.sha512",
     "C:\\Users\\lakshay\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.0.0\\automapper.extensions.microsoft.dependencyinjection.6.0.0.nupkg.sha512",

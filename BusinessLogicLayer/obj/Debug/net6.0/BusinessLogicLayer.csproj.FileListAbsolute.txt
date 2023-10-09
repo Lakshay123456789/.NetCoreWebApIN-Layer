@@ -17,3 +17,22 @@ E:\Revision\Web_Revision\WebApIRevision\BusinessLogicLayer\bin\Debug\net6.0\Mode
 E:\Revision\Web_Revision\WebApIRevision\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CopyComplete
 E:\Revision\Web_Revision\WebApIRevision\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.runtimeconfig.json
 E:\Revision\Web_Revision\WebApIRevision\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.genruntimeconfig.cache
+D:\New folder (7)\.NetCoreWebApIN-Layer\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.deps.json
+D:\New folder (7)\.NetCoreWebApIN-Layer\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.runtimeconfig.json
+D:\New folder (7)\.NetCoreWebApIN-Layer\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.dll
+D:\New folder (7)\.NetCoreWebApIN-Layer\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.pdb
+D:\New folder (7)\.NetCoreWebApIN-Layer\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\New folder (7)\.NetCoreWebApIN-Layer\BusinessLogicLayer\bin\Debug\net6.0\Model.dll
+D:\New folder (7)\.NetCoreWebApIN-Layer\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\New folder (7)\.NetCoreWebApIN-Layer\BusinessLogicLayer\bin\Debug\net6.0\Model.pdb
+D:\New folder (7)\.NetCoreWebApIN-Layer\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\New folder (7)\.NetCoreWebApIN-Layer\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (7)\.NetCoreWebApIN-Layer\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\New folder (7)\.NetCoreWebApIN-Layer\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfo.cs
+D:\New folder (7)\.NetCoreWebApIN-Layer\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\New folder (7)\.NetCoreWebApIN-Layer\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CopyComplete
+D:\New folder (7)\.NetCoreWebApIN-Layer\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.dll
+D:\New folder (7)\.NetCoreWebApIN-Layer\BusinessLogicLayer\obj\Debug\net6.0\refint\BusinessLogicLayer.dll
+D:\New folder (7)\.NetCoreWebApIN-Layer\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.pdb
+D:\New folder (7)\.NetCoreWebApIN-Layer\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.genruntimeconfig.cache
+D:\New folder (7)\.NetCoreWebApIN-Layer\BusinessLogicLayer\obj\Debug\net6.0\ref\BusinessLogicLayer.dll

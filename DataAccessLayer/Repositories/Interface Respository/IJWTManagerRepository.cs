@@ -7,5 +7,6 @@ namespace DataAccessLayer.Repositories
         Task<LoginResponseModel> Login(LoginDto model);
 
         Task<SignResponseModel> SignUp(RegisterDto model);
+        Task<LoginResponseModel> TwoFactorAuthentication(TwoFactorDto twoFactorDto);
     }
 }

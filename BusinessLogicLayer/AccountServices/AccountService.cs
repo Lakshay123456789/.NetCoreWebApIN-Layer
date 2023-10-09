@@ -123,7 +123,11 @@ namespace BusinessLogicLayer.AccountServices
             }
             return false;
         }
-
+        // verfiy code return valid token
        
+        public async Task<LoginResponseModel> VerifyTwoFactor(TwoFactorDto model)
+        {
+            return await _IJWTManagerRepository.TwoFactorAuthentication(model);
+        }
     }
 }
